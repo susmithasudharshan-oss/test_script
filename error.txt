@@ -1,0 +1,4 @@
+2025-12-09 10:00:15 ERROR Database connection lost.
+2025-12-09 10:00:30 ERROR Disk space low on /var/log.
+[2025-12-11 14:03:15,333] ERROR - [DownloadManager] Failed to connect to host 192.168.1.99. Connection timed out.
+[2025-12-11 14:03:15,444] ERROR - [main] Unhandled exception: System.IO.FileNotFoundException: Could not find file 'C:\data\config.xml'

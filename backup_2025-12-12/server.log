@@ -1,0 +1,15 @@
+2025-12-09 10:00:01 INFO User 'john' logged in.
+2025-12-09 10:00:05 WARNING Failed login attempt for user 'jane' from 192.168.1.10.
+2025-12-09 10:00:10 INFO Data synchronization started.
+2025-12-09 10:00:15 ERROR Database connection lost.
+2025-12-09 10:00:20 INFO Data synchronization completed.
+2025-12-09 10:00:25 DEBUG Processing user 'john' profile.
+2025-12-09 10:00:30 ERROR Disk space low on /var/log.
+[2025-12-11 14:00:00,123] INFO - [main] Attempting to log in...
+[2025-12-11 14:00:00,456] INFO - [main] Successfully logged in as: user123
+[2025-12-11 14:00:00,789] INFO - [DownloadManager] Starting file download: fileA.txt
+[2025-12-11 14:01:30,111] WARNING - [DownloadManager] Disk space is low. Current space: 10%
+[2025-12-11 14:02:45,222] WARNING - [Authenticator] Password for user 'temp_user' expires in 2 days
+[2025-12-11 14:03:15,333] ERROR - [DownloadManager] Failed to connect to host 192.168.1.99. Connection timed out.
+[2025-12-11 14:03:15,444] ERROR - [main] Unhandled exception: System.IO.FileNotFoundException: Could not find file 'C:\data\config.xml'
+

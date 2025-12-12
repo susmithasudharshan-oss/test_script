@@ -1,0 +1,3 @@
+2025-12-09 10:00:05 WARNING Failed login attempt for user 'jane' from 192.168.1.10.
+[2025-12-11 14:01:30,111] WARNING - [DownloadManager] Disk space is low. Current space: 10%
+[2025-12-11 14:02:45,222] WARNING - [Authenticator] Password for user 'temp_user' expires in 2 days
